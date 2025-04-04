@@ -9,11 +9,13 @@
 
 - 🔭 I’m currently working in <a href="https://sklnst.bupt.edu.cn/" target="blank">SKL-NST</a> 
 
-- 🌱 I’m currently Working on Java/Golang for backend and applying GAI to study computer networks
-
-- 🤝 I'm open to new job opportunities
+- 🌱 I’m currently working on Java/Golang for backend and applying GAI to study computer networks
 
 - 📝 I regularly write articles on  <a>Fault prediction and fault-tolerant migration based on GAI</a>
+
+- 👨‍💻 I once **interned in Kwai** for Java development
+
+- 🤝 I'm open to new job opportunities
 
 - 📫 How to reach me **ljc_2318516761@163.com**
 
