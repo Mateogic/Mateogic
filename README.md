@@ -9,18 +9,15 @@
 
 - 🔭 I’m currently working in <a href="https://sklnst.bupt.edu.cn/" target="blank">SKL-NST</a> 
 
-- 🌱 I’m currently working on Java/Golang for backend and applying GAI to study computer networks
+- 🌱 I’m currently working on **Java/Golang for backend** and applying GAI to study computer networks
 
-- 📝 I regularly write articles on  <a>Fault prediction and fault-tolerant migration based on GAI</a>
+- 📝 I regularly write articles on Fault prediction and fault-tolerant migration based on GAI
 
-- 👨‍💻 I once **interned in Kwai** for Java development
+- 👨‍💻 I once <img src="https://raw.githubusercontent.com/Mateogic/Mateogic/08a5a4ec5cca731b6e142db883ae738bbc710cb9/assets/kwai.svg" height="25" width="25">**interned in Kwai** for Java development
 
 - 🤝 I'm open to new job opportunities
 
 - 📫 How to reach me **ljc_2318516761@163.com**
-
-
-
 
 <h3 align="center" > <img src="https://raw.githubusercontent.com/Mateogic/Mateogic/refs/heads/main/assets/connect.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
 
