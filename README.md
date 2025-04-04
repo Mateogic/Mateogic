@@ -19,10 +19,10 @@
 
 - 📫 How to reach me **ljc_2318516761@163.com**
 
-<h3 align="center" > <img src="https://raw.githubusercontent.com/Mateogic/Mateogic/refs/heads/main/assets/connect.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
-
 <p align="center">
-
+<h3 align="center" > <img src="https://raw.githubusercontent.com/Mateogic/Mateogic/refs/heads/main/assets/connect.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
+</p>
+<p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
  		<!-- bilibili -->
 		<a style="margin-left: 10px;"  target="_blank" href="https://space.bilibili.com/189978997"><img src="https://raw.githubusercontent.com/Mateogic/Mateogic/e19dae7163ecd5130aa95de3e68cae038653ab0d/assets/bilibili.svg" height="40" width="40"></a>
