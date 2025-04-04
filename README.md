@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a>Mateogic</a></h1>
-<h3 align="center">A passionate software developer pursuing studies at BUPT, China</h3>
+<h3 align="center">A software developer pursuing studies at BUPT, China</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mateogic&label=Profile%20views&color=0e75b6&style=flat" alt="Mateogic" /> </p>
 
@@ -11,9 +11,9 @@
 
 - 🌱 My current focus is on **Java/Golang backend development** and leveraging Generative AI in computer network research
 
-- 📝  I regularly write articles on predictive fault analysis and AI-driven fault-tolerant migration systems
+- 📝 I regularly write articles on predictive fault analysis and AI-driven fault-tolerant migration systems
 
-- 👨‍💻 I previously served as a **Java development intern at <img src="https://raw.githubusercontent.com/Mateogic/Mateogic/08a5a4ec5cca731b6e142db883ae738bbc710cb9/assets/kwai.svg" height="16" width="16">Kwai (快手)**
+- 👨‍💻 I previously served as a **Java development intern at <img src="https://raw.githubusercontent.com/Mateogic/Mateogic/08a5a4ec5cca731b6e142db883ae738bbc710cb9/assets/kwai.svg" height="16" width="16">Kwai(快手)**
 
 - 🤝 I'm actively exploring new professional opportunities in software development
 
@@ -33,12 +33,9 @@
  		<!-- leetcode -->
 		<a style="margin-left: 10px;"  target="_blank" href="https://leetcode.cn/u/mateogic/"><img src="https://raw.githubusercontent.com/Mateogic/Mateogic/e19dae7163ecd5130aa95de3e68cae038653ab0d/assets/LeetCode.svg" height="40" width="40"></a>
  		<!-- linkdin -->
-		<a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/mateogic-ljc"><img src="https://raw.githubusercontent.com/Mateogic/Mateogic/e19dae7163ecd5130aa95de3e68cae038653ab0d/assets/linkedin.svg" height="40" width="40"></a>
+		<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/mateogic-ljc"><img src="https://raw.githubusercontent.com/Mateogic/Mateogic/e19dae7163ecd5130aa95de3e68cae038653ab0d/assets/linkedin.svg" height="40" width="40"></a>
       </div>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateogic&show_icons=true&locale=en&layout=compact" alt="mateogic" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateogic&show_icons=true&locale=en" alt="mateogic" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateogic&" alt="mateogic" /></p>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateogic&layout=compact&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mateogic&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mateogic's github stats" /></a>|
+| ------------- | ------------- |
