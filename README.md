@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on Fault prediction and fault-tolerant migration based on GAI
 
-- 👨‍💻 I once <img src="https://raw.githubusercontent.com/Mateogic/Mateogic/08a5a4ec5cca731b6e142db883ae738bbc710cb9/assets/kwai.svg" height="25" width="25">**interned in Kwai** for Java development
+- 👨‍💻 I once **interned in <img src="https://raw.githubusercontent.com/Mateogic/Mateogic/08a5a4ec5cca731b6e142db883ae738bbc710cb9/assets/kwai.svg" height="20" width="20">Kwai** for Java development
 
 - 🤝 I'm open to new job opportunities
 
