@@ -19,6 +19,7 @@
 
 
 
+
 <h3 align="center" > <img src="https://raw.githubusercontent.com/Mateogic/Mateogic/refs/heads/main/assets/connect.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
 
 <p align="center">
