@@ -19,7 +19,9 @@
 
 - 📫 How to reach me **ljc_2318516761@163.com**
 
+- 🤝 I'm open to new job opportunities
 
+- 📫 How to reach me **ljc_2318516761@163.com**
 
 
 
