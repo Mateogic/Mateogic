@@ -36,3 +36,9 @@
 		<a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/mateogic-ljc"><img src="https://raw.githubusercontent.com/Mateogic/Mateogic/e19dae7163ecd5130aa95de3e68cae038653ab0d/assets/linkedin.svg" height="40" width="40"></a>
       </div>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateogic&show_icons=true&locale=en&layout=compact" alt="mateogic" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateogic&show_icons=true&locale=en" alt="mateogic" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateogic&" alt="mateogic" /></p>
