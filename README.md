@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working in <a href="https://sklnst.bupt.edu.cn/" target="blank">SKL-NST</a> 
 
-- 🌱 I’m currently Working on Java/Golang for backend
+- 🌱 I’m currently Working on Java/Golang for backend and applying GAI to study computer networks
 
 - 🤝 I'm open to new job opportunities
 
