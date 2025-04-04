@@ -24,13 +24,13 @@
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
  		<!-- bilibili -->
-		<a style="margin-left: 10px;"  target="_blank" href="https://space.bilibili.com/189978997"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" height="40" width="40"></a>
+		<a style="margin-left: 10px;"  target="_blank" href="https://space.bilibili.com/189978997"><img src="https://raw.githubusercontent.com/Mateogic/Mateogic/e19dae7163ecd5130aa95de3e68cae038653ab0d/assets/bilibili.svg" height="40" width="40"></a>
  		<!-- github -->
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/mateogic">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png" height="40" width="40"></a>
+		<img src="https://raw.githubusercontent.com/Mateogic/Mateogic/e19dae7163ecd5130aa95de3e68cae038653ab0d/assets/github.svg" height="40" width="40"></a>
  		<!-- leetcode -->
-		<a href="https://leetcode.cn/u/mateogic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mateogic" height="40" width="40" /></a>
+		<a style="margin-left: 10px;"  target="_blank" href="https://leetcode.cn/u/mateogic/"><img src="https://raw.githubusercontent.com/Mateogic/Mateogic/e19dae7163ecd5130aa95de3e68cae038653ab0d/assets/LeetCode.svg" height="40" width="40"></a>
  		<!-- linkdin -->
-		<a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/mateogic-ljc"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" height="40" width="40"></a>
+		<a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/mateogic-ljc"><img src="https://raw.githubusercontent.com/Mateogic/Mateogic/e19dae7163ecd5130aa95de3e68cae038653ab0d/assets/linkedin.svg" height="40" width="40"></a>
       </div>
 </p>
