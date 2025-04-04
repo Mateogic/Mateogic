@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on predictive fault analysis and AI-driven fault-tolerant migration systems
 
-- 👨‍💻 I previously served as a **Java development intern at <img src="https://raw.githubusercontent.com/Mateogic/Mateogic/08a5a4ec5cca731b6e142db883ae738bbc710cb9/assets/kwai.svg" height="16" width="16">Kwai(快手)**
+- 👨‍💻 Previously a **Java development intern at Kwai(快手)** <img src="https://raw.githubusercontent.com/Mateogic/Mateogic/08a5a4ec5cca731b6e142db883ae738bbc710cb9/assets/kwai.svg" height="16" width="16">
 
 - 🤝 I'm actively exploring new professional opportunities in software development
 
