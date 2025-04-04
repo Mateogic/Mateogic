@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a>Mateogic</a></h1>
-<h3 align="center">A student developer from BUPT in China</h3>
+<h3 align="center">A passionate software developer pursuing studies at BUPT, China</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mateogic&label=Profile%20views&color=0e75b6&style=flat" alt="Mateogic" /> </p>
 
@@ -7,22 +7,20 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/Mateogic/Mateogic/refs/heads/main/assets/gif.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://sklnst.bupt.edu.cn/" target="blank">SKL-NST</a> 
+- 🔭 I'm currently conducting research at <a href="https://sklnst.bupt.edu.cn/" target="blank">SKL-NST</a> 
 
-- 🌱 I’m currently working on **Java/Golang for backend** and applying GAI to study computer networks
+- 🌱 My current focus is on **Java/Golang backend development** and leveraging Generative AI in computer network research
 
-- 📝 I regularly write articles on Fault prediction and fault-tolerant migration based on GAI
+- 📝  I regularly write articles on predictive fault analysis and AI-driven fault-tolerant migration systems
 
-- 👨‍💻 I once **interned in <img src="https://raw.githubusercontent.com/Mateogic/Mateogic/08a5a4ec5cca731b6e142db883ae738bbc710cb9/assets/kwai.svg" height="16" width="16">Kwai(快手)** for Java development
+- 👨‍💻 I previously served as a **Java development intern at <img src="https://raw.githubusercontent.com/Mateogic/Mateogic/08a5a4ec5cca731b6e142db883ae738bbc710cb9/assets/kwai.svg" height="16" width="16">Kwai (快手)**
 
-- 🤝 I'm open to new job opportunities
+- 🤝 I'm actively exploring new professional opportunities in software development
 
-- 📫 How to reach me **ljc_2318516761@163.com**
-
-- 🤝 I'm open to new job opportunities
+- 📫 Contact me at **ljc_2318516761@163.com**
 
 <div align="center">
-  <h3 align="center"> <img src="https://raw.githubusercontent.com/Mateogic/Mateogic/refs/heads/main/assets/connect.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
+  <h3 align="center"> <img src="https://raw.githubusercontent.com/Mateogic/Mateogic/refs/heads/main/assets/connect.gif" width="20" height="20" style="margin-right: 50px;">Let's Connect 🤝 </h3>
 </div>
 
 <p align="center">
