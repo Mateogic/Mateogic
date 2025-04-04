@@ -15,7 +15,7 @@
 
 - 👨‍💻 Previously a **Java development intern at <img src="https://raw.githubusercontent.com/Mateogic/Mateogic/08a5a4ec5cca731b6e142db883ae738bbc710cb9/assets/kwai.svg" height="16" width="16">Kwai(快手)** 
 
-- 🛠 Common tools include:<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/Mateogic/Mateogic/433af50a0bfe81f7c4bbcb08141029f9a462de25/assets/docker.svg"></code><code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/Mateogic/Mateogic/433af50a0bfe81f7c4bbcb08141029f9a462de25/assets/springboot.svg"></code><code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/Mateogic/Mateogic/433af50a0bfe81f7c4bbcb08141029f9a462de25/assets/rocketmq.svg"></code><code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/Mateogic/Mateogic/433af50a0bfe81f7c4bbcb08141029f9a462de25/assets/mysql.svg"></code><code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/Mateogic/Mateogic/433af50a0bfe81f7c4bbcb08141029f9a462de25/assets/redis.svg"></code><code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/Mateogic/Mateogic/433af50a0bfe81f7c4bbcb08141029f9a462de25/assets/cursor.png"></code>
+- 🛠 Common tools include: <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/Mateogic/Mateogic/433af50a0bfe81f7c4bbcb08141029f9a462de25/assets/docker.svg"></code><code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/Mateogic/Mateogic/433af50a0bfe81f7c4bbcb08141029f9a462de25/assets/springboot.svg"></code><code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/Mateogic/Mateogic/433af50a0bfe81f7c4bbcb08141029f9a462de25/assets/rocketmq.svg"></code><code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/Mateogic/Mateogic/433af50a0bfe81f7c4bbcb08141029f9a462de25/assets/mysql.svg"></code><code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/Mateogic/Mateogic/433af50a0bfe81f7c4bbcb08141029f9a462de25/assets/redis.svg"></code><code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/Mateogic/Mateogic/433af50a0bfe81f7c4bbcb08141029f9a462de25/assets/cursor.png"></code>
 
 - 🤝 I'm actively exploring new professional opportunities in software development
 
@@ -39,5 +39,7 @@
       </div>
 </p>
 
+<div align="center">
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateogic&layout=compact&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mateogic&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mateogic's github stats" /></a>|
 | ------------- | ------------- |
+</div>
