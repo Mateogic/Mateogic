@@ -22,7 +22,7 @@
 - 📫 Contact me at **ljc_2318516761@163.com**
 
 <div align="center">
-  <h3 align="center"> <img src="https://raw.githubusercontent.com/Mateogic/Mateogic/refs/heads/main/assets/connect.gif" width="20" height="20" style="margin-right: 50px;">Let's Connect 🤝 </h3>
+  <h3 align="center"> <img src="https://raw.githubusercontent.com/Mateogic/Mateogic/refs/heads/main/assets/connect.gif" width="20" height="20" style="margin-right: 50px;">Welcome to communicate with me 🤗</h3>
 </div>
 
 <p align="center">
