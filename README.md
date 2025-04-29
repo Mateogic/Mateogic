@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mateogic&label=Profile%20views&color=0e75b6&style=flat" alt="Mateogic" /> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="background" src="https://minio.mateogic.cn/api/v1/buckets/github-imgs/objects/download?preview=true&prefix=assets%2Fbackground.jpg&version_id=null">
+  <img align="right" top="500" height="300" width="400" alt="background" src="https://lsky.mateogic.cn/i/2025/04/29/6810abc8301e4.jpg">
 </a>
 
 - 🔭 I'm currently conducting research at <a href="https://sklnst.bupt.edu.cn/" target="blank">SKL-NST</a> 
@@ -13,30 +13,30 @@
 
 - 📝 I regularly write articles on predictive fault analysis and AI-driven fault-tolerant migration systems
 
-- 👨‍💻 Previously a **Java development intern at <img src="https://raw.githubusercontent.com/Mateogic/Mateogic/08a5a4ec5cca731b6e142db883ae738bbc710cb9/assets/kwai.svg" height="16" width="16">Kwai(快手)** 
+- 👨‍💻 Previously a **Java development intern at <img src="https://lsky.mateogic.cn/i/2025/04/29/6810abc781de6.png" height="16" width="16">Kwai(快手)** 
 
-- 🛠 Common tools include: <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/Mateogic/Mateogic/433af50a0bfe81f7c4bbcb08141029f9a462de25/assets/docker.svg"></code><code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/Mateogic/Mateogic/433af50a0bfe81f7c4bbcb08141029f9a462de25/assets/springboot.svg"></code><code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/Mateogic/Mateogic/433af50a0bfe81f7c4bbcb08141029f9a462de25/assets/rocketmq.svg"></code><code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/Mateogic/Mateogic/433af50a0bfe81f7c4bbcb08141029f9a462de25/assets/mysql.svg"></code><code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/Mateogic/Mateogic/433af50a0bfe81f7c4bbcb08141029f9a462de25/assets/redis.svg"></code><code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/Mateogic/Mateogic/433af50a0bfe81f7c4bbcb08141029f9a462de25/assets/cursor.png"></code>
+- 🛠 Common tools include: <code><img height="20" alt="nodejs" src="https://lsky.mateogic.cn/i/2025/04/29/6810abc645022.png"></code><code><img height="20" alt="nodejs" src="https://lsky.mateogic.cn/i/2025/04/29/6810abc60a813.png"></code><code><img height="20" alt="nodejs" src="https://lsky.mateogic.cn/i/2025/04/29/6810abc5d86fc.png"></code><code><img height="20" alt="nodejs" src="https://lsky.mateogic.cn/i/2025/04/29/6810abc76d808.png"></code><code><img height="20" alt="nodejs" src="https://lsky.mateogic.cn/i/2025/04/29/6810abc767207.png"></code><code><img height="20" alt="nodejs" src="https://lsky.mateogic.cn/i/2025/04/29/6810abc79efa9.png"></code>
 
 - 🤝 I'm actively exploring new professional opportunities in software development
 
 - 📫 Contact me at **ljc_2318516761@163.com**
 
 <div align="center">
-  <h3 align="center"> <img src="https://raw.githubusercontent.com/Mateogic/Mateogic/refs/heads/main/assets/connect.gif" width="20" height="20" style="margin-right: 50px;">Welcome to communicate with me 🤗</h3>
+  <h3 align="center"> <img src="https://lsky.mateogic.cn/i/2025/04/29/6810abc83fc3c.gif" width="20" height="20" style="margin-right: 50px;">Welcome to communicate with me 🤗</h3>
 </div>
 
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
  		<!-- mysite -->
-		<a style="margin-left: 10px;"  target="_blank" href="https://mateogic.cn"><img src="https://raw.githubusercontent.com/Mateogic/Mateogic/213b600984b00462c0f95c172d4329fb10c9e543/assets/site.svg" height="40" width="40"></a>
+		<a style="margin-left: 10px;"  target="_blank" href="https://mateogic.cn"><img src="https://lsky.mateogic.cn/i/2025/04/29/6810abc621021.png" height="40" width="40"></a>
 	 	<!-- bilibili -->
-		<a style="margin-left: 10px;"  target="_blank" href="https://space.bilibili.com/189978997"><img src="https://raw.githubusercontent.com/Mateogic/Mateogic/e19dae7163ecd5130aa95de3e68cae038653ab0d/assets/bilibili.svg" height="40" width="40"></a>
+		<a style="margin-left: 10px;"  target="_blank" href="https://space.bilibili.com/189978997"><img src="https://lsky.mateogic.cn/i/2025/04/29/6810abc6325ee.png" height="40" width="40"></a>
  		<!-- github -->
-        	<a style="margin-left: 10px;" target="_blank" href="https://github.com/mateogic"><img src="https://raw.githubusercontent.com/Mateogic/Mateogic/e19dae7163ecd5130aa95de3e68cae038653ab0d/assets/github.svg" height="40" width="40"></a>
+        	<a style="margin-left: 10px;" target="_blank" href="https://github.com/mateogic"><img src="https://lsky.mateogic.cn/i/2025/04/29/6810abc6593f4.png" height="40" width="40"></a>
  		<!-- leetcode -->
-		<a style="margin-left: 10px;"  target="_blank" href="https://leetcode.cn/u/mateogic/"><img src="https://raw.githubusercontent.com/Mateogic/Mateogic/e19dae7163ecd5130aa95de3e68cae038653ab0d/assets/LeetCode.svg" height="40" width="40"></a>
+		<a style="margin-left: 10px;"  target="_blank" href="https://leetcode.cn/u/mateogic/"><img src="https://lsky.mateogic.cn/i/2025/04/29/6810abc745859.png" height="40" width="40"></a>
  		<!-- linkdin -->
-		<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/mateogic-ljc"><img src="https://raw.githubusercontent.com/Mateogic/Mateogic/e19dae7163ecd5130aa95de3e68cae038653ab0d/assets/linkedin.svg" height="40" width="40"></a>
+		<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/mateogic-ljc"><img src="https://lsky.mateogic.cn/i/2025/04/29/6810abc75d5c9.png" height="40" width="40"></a>
       </div>
 </p>
 
