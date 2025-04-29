@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mateogic&label=Profile%20views&color=0e75b6&style=flat" alt="Mateogic" /> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="background" src="https://raw.githubusercontent.com/Mateogic/Mateogic/refs/heads/main/assets/background.jpg">
+  <img align="right" top="500" height="300" width="400" alt="background" src="https://minio.mateogic.cn/api/v1/buckets/github-imgs/objects/download?preview=true&prefix=assets%2Fbackground.jpg&version_id=null">
 </a>
 
 - 🔭 I'm currently conducting research at <a href="https://sklnst.bupt.edu.cn/" target="blank">SKL-NST</a> 
