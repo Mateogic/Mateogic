@@ -15,7 +15,7 @@
 
 - 👨‍💻 Previously a **Java development intern at <img src="https://lsky.mateogic.cn/i/2025/04/29/6810abc781de6.png" height="16" width="16">Kwai(快手)** 
 
-- 🛠 Common tools include: <code><img height="20" alt="nodejs" src="https://lsky.mateogic.cn/i/2025/04/29/6810abc645022.png"></code><code><img height="20" alt="nodejs" src="https://lsky.mateogic.cn/i/2025/04/29/6810abc60a813.png"></code><code><img height="20" alt="nodejs" src="https://lsky.mateogic.cn/i/2025/04/29/6810abc5d86fc.png"></code><code><img height="20" alt="nodejs" src="https://lsky.mateogic.cn/i/2025/04/29/6810abc76d808.png"></code><code><img height="20" alt="nodejs" src="https://lsky.mateogic.cn/i/2025/04/29/6810abc767207.png"></code><code><img height="20" alt="nodejs" src="https://lsky.mateogic.cn/i/2025/04/29/6810abc79efa9.png"></code>
+- 🛠 Common tools include: <img height="20" alt="nodejs" src="https://lsky.mateogic.cn/i/2025/04/29/6810abc645022.png"><img height="20" alt="nodejs" src="https://lsky.mateogic.cn/i/2025/04/29/6810abc60a813.png"><img height="20" alt="nodejs" src="https://lsky.mateogic.cn/i/2025/04/29/6810abc5d86fc.png"></code><code><img height="20" alt="nodejs" src="https://lsky.mateogic.cn/i/2025/04/29/6810abc76d808.png"><img height="20" alt="nodejs" src="https://lsky.mateogic.cn/i/2025/04/29/6810abc767207.png"><img height="20" alt="nodejs" src="https://lsky.mateogic.cn/i/2025/04/29/6810abc79efa9.png">
 
 - 🤝 I'm actively exploring new professional opportunities in software development
 
