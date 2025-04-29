@@ -32,7 +32,7 @@
 	 	<!-- bilibili -->
 		<a style="margin-left: 10px;"  target="_blank" href="https://space.bilibili.com/189978997"><img src="https://lsky.mateogic.cn/i/2025/04/29/6810abc6325ee.png" height="40" width="40"></a>
  		<!-- github -->
-        	<a style="margin-left: 10px;" target="_blank" href="https://github.com/mateogic"><img src="https://lsky.mateogic.cn/i/2025/04/29/6810abc6593f4.png" height="40" width="40"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://github.com/mateogic"><img src="https://lsky.mateogic.cn/i/2025/04/29/6810abc6593f4.png" height="40" width="40"></a>
  		<!-- leetcode -->
 		<a style="margin-left: 10px;"  target="_blank" href="https://leetcode.cn/u/mateogic/"><img src="https://lsky.mateogic.cn/i/2025/04/29/6810abc745859.png" height="40" width="40"></a>
  		<!-- linkdin -->
