@@ -7,11 +7,11 @@
   <img align="right" top="500" height="300" width="400" alt="background" src="https://lsky.mateogic.cn/i/2025/04/29/6810abc8301e4.jpg">
 </a>
 
-- 🔭 I'm currently conducting research at `<a href="https://sklnst.bupt.edu.cn/" target="blank">`SKL-NST `</a>`
+- 🔭 I'm currently conducting research at <a href="https://sklnst.bupt.edu.cn/" target="blank">SKL-NST </a>
 - 🌱 My current focus is on **Java/Golang backend development** and leveraging Generative AI in computer network research
 - 📝 I regularly write articles on predictive fault analysis and AI-driven fault-tolerant migration systems
-- 👨‍💻 Previously a **Java development intern at `<img src="https://mateogic.cn/PicGo/1746015380847-kwai.png" height="16" width="16">`Kwai(快手)**
-- 🛠 Common tools include: `<img height="20" alt="nodejs" src="https://mateogic.cn/PicGo/1746015380847-docker.png"><img height="20" alt="nodejs" src="https://mateogic.cn/PicGo/1746015380847-springboot.png">``<img height="20" alt="nodejs" src="https://mateogic.cn/PicGo/1746015380847-rocketmq.png"><img height="20" alt="nodejs" src="https://mateogic.cn/PicGo/1746015380847-mysql.png">``<img height="20" alt="nodejs" src="https://mateogic.cn/PicGo/1746015380847-redis.png"><img height="20" alt="nodejs" src="https://mateogic.cn/PicGo/1746015380847-cursor.png">`
+- 👨‍💻 Previously a **Java development intern at <img src="https://mateogic.cn/PicGo/1746015380847-kwai.png" height="16" width="16">Kwai(快手)**
+- 🛠 Common tools include: <img height="20" alt="nodejs" src="https://mateogic.cn/PicGo/1746015380847-docker.png"><img height="20" alt="nodejs" src="https://mateogic.cn/PicGo/1746015380847-springboot.png"><img height="20" alt="nodejs" src="https://mateogic.cn/PicGo/1746015380847-rocketmq.png"><img height="20" alt="nodejs" src="https://mateogic.cn/PicGo/1746015380847-mysql.png"><img height="20" alt="nodejs" src="https://mateogic.cn/PicGo/1746015380847-redis.png"><img height="20" alt="nodejs" src="https://mateogic.cn/PicGo/1746015380847-cursor.png">
 - 🤝 I'm actively exploring new professional opportunities in software development
 - 📫 Contact me at **ljc_2318516761@163.com**
 
@@ -34,5 +34,5 @@
       </div>
 </p>
 
-| `<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateogic&layout=compact&theme=buefy&hide_border=true" />``</a>` | `<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mateogic&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mateogic's github stats" />``</a>` |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateogic&layout=compact&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mateogic&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mateogic's github stats" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
