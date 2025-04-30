@@ -15,6 +15,7 @@
 - 🤝 I'm actively exploring new professional opportunities in software development
 - 📫 Contact me at **ljc_2318516761@163.com**
 <br>
+<br>
 <div align="center">
   <h3 align="center"> <img src="https://lsky.mateogic.cn/i/2025/04/29/6810abc83fc3c.gif" width="20" height="20" style="margin-right: 50px;">Welcome to communicate with me 🤗</h3>
 </div>
