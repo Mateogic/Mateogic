@@ -22,6 +22,8 @@
 
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
+  		<!-- myblog -->
+		<a style="margin-left: 10px;"  target="_blank" href="https://blog.mateogic.cn"><img src="https://cf.github-imgs.mateogic.cn/PicGo/1748853294986-blog.png" height="40" width="40"></a>
  		<!-- mysite -->
 		<a style="margin-left: 10px;"  target="_blank" href="https://mateogic.cn"><img src="https://cf.github-imgs.mateogic.cn/PicGo/1746023201358-site.png" height="40" width="40"></a>
 	 	<!-- bilibili -->
