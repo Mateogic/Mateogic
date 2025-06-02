@@ -31,7 +31,7 @@
  		<!-- github -->
 		<a style="margin-left: 10px;" target="_blank" href="https://github.com/mateogic"><img src="https://cf.github-imgs.mateogic.cn/PicGo/1746023201357-github.png" height="40" width="40"></a>
  		<!-- leetcode -->
-		<a style="margin-left: 10px;"  target="_blank" href="https://leetcode.cn/u/mateogic/"><img src="https://cf.github-imgs.mateogic.cn/PicGo/1746023201357-LeetCode.png" height="40" width="40"></a>
+		<a style="margin-left: 10px;"  target="_blank" href="https://leetcode.cn/u/liu-jice-8/"><img src="https://cf.github-imgs.mateogic.cn/PicGo/1746023201357-LeetCode.png" height="40" width="40"></a>
  		<!-- linkdin -->
 		<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/mateogic-ljc"><img src="https://cf.github-imgs.mateogic.cn/PicGo/1746023201357-linkedin.png" height="40" width="40"></a>
       </div>
